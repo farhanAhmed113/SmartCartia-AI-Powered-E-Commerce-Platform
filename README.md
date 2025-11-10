@@ -32,13 +32,6 @@
 
 ---
 
-## 🏷️ Live Demo
-
-> Project deployed by a teammate: **https://smartcartia.vercel.app**  
-> *(If you have your own deployment, replace the link above with your deployment URL.)*
-
----
-
 ## 👨‍💻 My Role & Contribution
 
 **Role:** API Integration & Database Management
